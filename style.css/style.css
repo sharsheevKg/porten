@@ -174,7 +174,7 @@ ul li{
 }
 /* 3 контейнер header3 */
 .header__top__3{
-    background-image: url(/images/Rectangle\ 3.jpg);
+    background-image: url(../images/Rectangle\ 3.jpg);
     background-repeat: no-repeat;
     min-height: 800px;
     width: 1900px;
@@ -303,7 +303,7 @@ ul li{
 }
 /* 2 box */
 .section__1__img{
-    background-image: url(/images/Rectangle\ 8.jpg);
+    background-image: url(../images/Rectangle\ 8.jpg);
     background-repeat: no-repeat;
     width: 870px;
     height: 730px;
@@ -355,7 +355,7 @@ background-color: #000;
     height: 600px;
     min-height: 600px;
     min-width: 880px;
-    background-image: url(/images/Rectangle\ 8.jpg);
+    background-image: url(../images/Rectangle\ 8.jpg);
 }
 
 .section__2__position__item{
@@ -492,8 +492,9 @@ p{
 }
 
 .footer__sec__2{
-    background-image: url(/images/Rectangle\ 15.jpg);
+   background-image: url(../images/Rectangle\ 15.jpg);
     width: 1900px;
+    max-width: 1900px;
     height: 400px;
     min-height: 400px;
     display: flex;
